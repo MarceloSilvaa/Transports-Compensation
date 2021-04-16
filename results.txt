@@ -1,0 +1,45 @@
+--------------------
+Compensation: 0.0€
+OC probability: 1%
+
+Total cost: (2438,4 ; 2445,1)
+
+Maximum number of packages stored: (59 ; 59)
+
+--------------------
+Compensation: 0.5€
+OC probability: 25%
+
+Total cost: (1936,5 ; 1942,0)
+
+Maximum number of packages stored: (59 ; 59)
+
+--------------------
+Compensation: 1.0€
+OC probability: 50%
+
+Total cost: (1943,2 ; 1948,0)
+
+Maximum number of packages stored: (59 ; 59)
+
+--------------------
+Compensation: 1.5€
+OC probability: 60%
+
+Total cost: (2407,1 ; 2412,3)
+
+Maximum number of packages stored: (59 ; 59)
+
+--------------------
+Compensation: 1.8€
+OC probability: 75%
+
+Total cost: (2830,6 ; 2836,5)
+
+Maximum number of packages stored: (59 ; 59)
+
+--------------------
+
+Best compensation: 0.5€
+OC probability: 25%
+
